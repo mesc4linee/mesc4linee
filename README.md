@@ -1,0 +1,4 @@
+- 👋 Hi, I’m mesc4linee
+- 👀 I’m interested in Programming
+- ☕ I’m currently learning Java and Python
+- ♥️ I’m making a client for Minecraft.
